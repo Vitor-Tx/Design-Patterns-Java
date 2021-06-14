@@ -5,6 +5,6 @@ public class AbstractObject {
     String tipo;
 
     public void showObject(){
-        System.out.println(this.nome + " " + this.tipo);
+        System.out.println(this.nome + " " + this.tipo + "\n");
     }
 }
